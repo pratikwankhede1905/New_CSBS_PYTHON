@@ -1,0 +1,5 @@
+str = input("Enter A String :")
+str = str.lower()
+print(f"String in lower case : {str}")
+str = str.upper()
+print(f"String in upper case : {str}")
