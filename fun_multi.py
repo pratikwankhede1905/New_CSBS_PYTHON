@@ -1,7 +1,8 @@
 def num(n):
     for i in range(1,11):
         print(f"{n} X {i} = {n*i}")
-num(3)
+n = int(input("Enter you number: "))
+num(n)
 
 
 
